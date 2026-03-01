@@ -1,0 +1,23 @@
+body{
+  
+  margin:0px;
+}
+#Button1{
+    height: 100px;
+    width: 200px;
+    border: 5px solid;
+    border-radius: 20px;
+    margin-left: 50%;
+    margin-right: 50%;
+   margin-top: 25%;
+
+}
+#inputframe{
+   
+   border: 5px solid;
+   border-color: black;
+}
+.Input1{
+    height: 30px;
+    width: 200px;
+}
